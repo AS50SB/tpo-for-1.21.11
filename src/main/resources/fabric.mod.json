@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "id": "tpo",
+  "version": "${version}",
+  "name": "TPO Mod",
+  "description": "A Fabric mod",
+  "authors": ["E&B"],
+  "contact": {
+    "homepage": "https://example.com/",
+    "sources": "https://github.com/yourname/tpo"
+  },
+  "license": "MIT",
+  "icon": "assets/tpo/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "eab.tpo.TpoMod"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.15.11",
+    "minecraft": "~1.21.1",
+    "java": ">=21",
+    "fabric-api": "*"
+  }
+}

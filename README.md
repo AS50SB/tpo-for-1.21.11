@@ -3,4 +3,6 @@ TPO for 1.21.11 fabric
 
 gradlew clean build
 
-Tip:the dev.txt is build script(for my computer only)
+Tip:the dev.txt is build script(for my computer only)  
+
+A wrong:THIS MOD USE THE !!!MIT!!! LICENSE!!!
